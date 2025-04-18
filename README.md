@@ -1,5 +1,5 @@
 
-# 💡 Smart Career Companion
+#  Smart Career Companion
 
 An AI-powered career guidance platform that helps users:
 
@@ -9,9 +9,9 @@ An AI-powered career guidance platform that helps users:
 ✅ Simulate mock interviews  
 ✅ Calculate a personalized Candidate Profile Score  
 
-## 🚀 Getting Started
+##  Getting Started
 
-🖥️ **Prerequisites**  
+ **Prerequisites**  
 Make sure you have these installed on your computer:
 
 - Python 3.11+ | To run the backend application | [Download](https://www.python.org/downloads/)
@@ -57,8 +57,7 @@ SECRET_KEY=your_flask_secret_key
 GEMINI_API_KEY=your_google_gemini_key
 RAPIDAPI_KEY=your_rapidapi_key
 ```
-
-💡 **Alternative:**  
+ **Alternative:**  
 If you prefer, you can create a sample config file:  
 `instance/config.py.example`  
 And write:
@@ -87,7 +86,7 @@ Point your browser to: [http://127.0.0.1:5000](http://127.0.0.1:5000) to see the
 
 ---
 
-### 🔍 How to Explore the Features
+###  How to Explore the Features
 
 **Sign up / Log in**  
 Create a new user account and authenticate.
@@ -131,14 +130,14 @@ Create a new user account and authenticate.
 
 ---
 
-### 🏷️ License
+### 🏷 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.  
 ![License Badge](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
-### 👥 Contributors
+###  Contributors
 
 Thanks to the amazing contributors who helped build this project!
 
@@ -148,7 +147,7 @@ Thanks to the amazing contributors who helped build this project!
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 - **Backend:** Flask, SQLAlchemy  
 - **Frontend:** HTML, CSS, Bootstrap  
