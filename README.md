@@ -122,7 +122,7 @@ Create a new user account and authenticate.
 
 ---
 
-### 🛠️ Troubleshooting
+###  Troubleshooting
 
 - **Errors generating PDF:** Ensure `weasyprint` and `PyMuPDF` are installed.
 - **Database issues:** Delete `instance/users.db` (if present) and rerun migrations.
@@ -130,7 +130,7 @@ Create a new user account and authenticate.
 
 ---
 
-### 🏷 License
+###  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.  
 ![License Badge](https://img.shields.io/badge/License-MIT-green)
