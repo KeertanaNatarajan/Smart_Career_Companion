@@ -322,7 +322,7 @@ def get_resume_score(resume_text):
 Then provide recommended changes as bullet points, each on a new line.
 Resume Content:
 {resume_text}"""
-    api_key = "AIzaSyBRJslEP2gkoG8KEd05nlFdTS-JAUkEdyU"  # Replace with your valid API key
+    api_key = "Replace with your valid API key"
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent?key={api_key}"
 
     payload = {
@@ -802,7 +802,7 @@ Feedback: <feedback on the user's previous answer (if any)>
 
 Only include the parts that are relevant.
 """
-    api_key = "AIzaSyBRJslEP2gkoG8KEd05nlFdTS-JAUkEdyU"  # Replace with your valid API key
+    api_key = " Replace with your valid API key"
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent?key={api_key}"
     payload = {
         "contents": [{"parts": [{"text": gemini_prompt}]}],
