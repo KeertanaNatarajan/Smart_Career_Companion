@@ -141,8 +141,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Thanks to the amazing contributors who helped build this project!
 
-- [Rajalakshmi S](https://github.com/Rajalakshmi2702)  
-- [Keertana Natarajan](https://github.com/KeertanaNatarajan)  
+- [Keertana Natarajan](https://github.com/KeertanaNatarajan) 
+- [Rajalakshmi S](https://github.com/Rajalakshmi2702)   
 - [Neelaveni R](https://github.com/Neelaveni1009)  
 
 ---
